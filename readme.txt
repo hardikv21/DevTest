@@ -1,6 +1,6 @@
 # question1 and question2
 ```
-git clone https://github.com/shavyg2/DevTest.git
+git clone https://github.com/hardikv21/DevTest.git
 cd DevTest
 npm install
 ```
